@@ -29,3 +29,28 @@ What significant changes are planned in the IT infrastructure?
 What parts of the infrastructure are currently outsourced?
 Are there any plans to increase or decrease outsourcing?
 What potential does the architecture offer to serve other markets or needs?
+
+Tool Selection
+Do the tools permit tuning or modification at the pace the business will require?
+How deep is the bend in the marketplace to replace staff on critical tools?
+
+Performance and Capacity
+How are the customer (user) satisfaction levels measured?
+Are service levels defined and documented?
+How is performance monitored?
+What tools, techniques, metrics are used to manage performance?
+(1)	workstations
+(2)	servers
+(3)	data networks
+(4)	hubs/routers/switches
+(5)	applications
+How are workloads defined and characterized?
+(1)	host servers
+(2)	LAN servers
+(3)	Hubs/routers/switches
+(4)	Workstations
+(5)	Applications
+(6)	WAN
+(7)	CSU/DSU’s
+(8)	Data line bandwidth
+What tools, techniques and reports are used to manage capacity?
