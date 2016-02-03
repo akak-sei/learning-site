@@ -1,0 +1,31 @@
+Business Model
+
+Vision
+What is your business model?
+What do you plan to do?
+How do you plan to do it?
+What are the implications of this vision on the technology solution?
+
+Market
+Who is your target market?
+Why do they buy your product or service?
+What is the size of potential market?
+What is your assumed growth rate?
+What supply positions/relationships do you have?
+Describe your revenue streams. How will they change over time?
+What are the top three problems that your technology and services solve?
+
+
+
+Technology
+
+Architecture
+Provide a Hardware architecture diagram.
+Provide a Software architecture diagram.
+How open is the architecture?
+What are your external interfaces?
+What standards do you have?
+What significant changes are planned in the IT infrastructure?
+What parts of the infrastructure are currently outsourced?
+Are there any plans to increase or decrease outsourcing?
+What potential does the architecture offer to serve other markets or needs?
