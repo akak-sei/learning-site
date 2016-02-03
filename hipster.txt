@@ -15,6 +15,21 @@ What supply positions/relationships do you have?
 Describe your revenue streams. How will they change over time?
 What are the top three problems that your technology and services solve?
 
+Systems Management (Processes)
+For each of the following processes:
+•	Availability Management
+•	Performance and Capacity Management
+•	Security
+•	IT Continuity/Backup & Recovery
+
+Process Questions
+Does the process have an owner?
+How is the process performed?
+How is the process measured?
+Is the process clearly defined and documented?
+What concerns do you have with the current process?
+What would you change?
+
 
 
 Technology
@@ -54,3 +69,19 @@ How are workloads defined and characterized?
 (7)	CSU/DSU’s
 (8)	Data line bandwidth
 What tools, techniques and reports are used to manage capacity?
+
+Security
+How is security monitored?
+What is the frequency and severity of losses due to unauthorized access or intrusion during the last 12 months and year to date?
+How is the infrastructure protected against unauthorized access, lost data or information, or intrusion from hostile viruses or other intrusions?
+What tools are used for asset control and protection, physical and electronic network security, encryption, and other allied security considerations?
+
+Scalability
+How is the need for additional capacity determined?
+What are the constraints of expansion?
+How much growth has been experienced (and expected) in customers, peak and average transaction volumes?
+How does it compare to the growth forecast in the business plan?
+How much customizing occurred to support the current volumes?
+How will the IT architecture accommodate expected growth?
+
+
