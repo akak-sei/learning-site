@@ -1,0 +1,127 @@
+h1,h2 {
+color:black; 
+font-family:Badaboom BB;
+font-size:30px;
+}
+
+#nav{
+border: 1px solid black;
+height: 50px;
+width: 300px;
+background: white;
+margin: 0 auto;	
+}
+
+#nav ul{
+	list-style-type: none;
+	
+}
+
+#nav ul li{
+	border: 1px solid black;
+	width: 70px;
+	display: inline;
+	padding: 3px;
+}
+
+#nav ul li a:link{
+text-decoration: none;
+}	
+
+#nav ul li a:visited{
+text-decoration: none;
+color: blue;
+}	
+
+#nav ul li a:hover{
+text-decoration: none;
+font-weight: bold;
+}	
+
+#nav ul li a:active{
+text-decoration: none;
+color: red;
+}	
+
+p {
+font-size:10px;
+font-family:Arial;
+}
+
+body {
+	background-color: #ffff66;
+}
+
+p.Victor {
+	font-size:12px;
+	color:blue;
+}
+
+p.Alex {
+	font-size:12px;
+	color:yellow;
+}
+
+.Rafael {
+	font-size:16px;
+	color:pink;
+}
+
+#VictorAsId {
+	font-size:14px;
+	color:green;
+}
+
+.SpanTag {
+	font-size:20px;
+}
+
+#SectionOne {
+	font-family: Badaboom BB;
+	border: 5px solid #990066;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color: #505050;
+	padding: 10px 10px 20px 30px;
+}
+
+#SectionTwo {
+	font-family: Times New Roman;
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color:#33ff99;
+}
+
+#SectionThree {
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color:red;
+}
+
+#container {
+	border: 1px solid black;
+	height: auto;
+	width: 700px;
+	position: relative;
+	margin: 0px auto;	
+}
+
+#container label{
+	width: 150px;
+	float: left;
+}
+
+#container .button{
+	margin-left: 120px;
+}
+#footer {
+	border: 1px solid black;
+	height: 40px;
+	width: 700px;
+	margin: 0px auto;
+}
